@@ -1,0 +1,17 @@
+{
+    "expenses": [{
+        "id": 1,
+        "projectName": "abc",
+        "date": "123",
+        "amount": 12345,
+        "status": "not submitted"
+    },
+    {
+        "id": 2,
+        "projectName": "abcd",
+        "date": "1234",
+        "amount": 1245,
+        "status": "submitted"
+    }
+    ]
+}
