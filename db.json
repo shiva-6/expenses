@@ -2,6 +2,7 @@
     "expenses": [{
         "id": 1,
         "projectName": "abc",
+        "expenseName" : "heyy",
         "date": "123",
         "amount": 12345,
         "status": "not submitted"
@@ -9,6 +10,7 @@
     {
         "id": 2,
         "projectName": "abcd",
+        "expenseName" : "heyy2",
         "date": "1234",
         "amount": 1245,
         "status": "submitted"
