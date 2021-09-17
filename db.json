@@ -2,7 +2,7 @@
     "expenses": [{
         "id": 1,
         "projectName": "test1",
-        "data": "2021-02-06",
+        "date": "2021-02-06",
         "expenseName": "expense1",
         "paymentMethod": "Visa",
         "currency": "INR",
@@ -17,7 +17,7 @@
         "id": 1,
         "userName": "shiva",
         "projectName": "test1",
-        "data": "2021-02-06",
+        "date": "2021-02-06",
         "expenseName": "expense1",
         "paymentMethod": "Visa",
         "currency": "INR",
