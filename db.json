@@ -1,4 +1,29 @@
 {
-    "expenses": [
-    ]
+    "expenses": [{
+        "projectName": "test1",
+        "data": new Date(),
+        "expenseName": "expense1",
+        "paymentMethod": "Visa",
+        "currency": "INR",
+        "amount": "12345",
+        "taxZone": "GST",
+        "tax": "50",
+        "totalAmount": "12395",
+        "description" : "nothing much",
+        "attachment": null
+    }]
+    "approvals": [{
+        "userName": "shiva",
+        "projectName": "test1",
+        "data": new Date(),
+        "expenseName": "expense1",
+        "paymentMethod": "Visa",
+        "currency": "INR",
+        "amount": "12345",
+        "taxZone": "GST",
+        "tax": "50",
+        "totalAmount": "12395",
+        "description" : "nothing much",
+        "attachment": null
+    }]
 }
