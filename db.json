@@ -1,7 +1,7 @@
 {
     "expenses": [{
         "projectName": "test1",
-        "data": new Date(),
+        "data": "2021-02-06",
         "expenseName": "expense1",
         "paymentMethod": "Visa",
         "currency": "INR",
@@ -15,7 +15,7 @@
     "approvals": [{
         "userName": "shiva",
         "projectName": "test1",
-        "data": new Date(),
+        "data": "2021-02-06",
         "expenseName": "expense1",
         "paymentMethod": "Visa",
         "currency": "INR",
