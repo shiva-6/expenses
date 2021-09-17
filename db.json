@@ -9,6 +9,7 @@
         "amount": "12345",
         "taxZone": "GST",
         "tax": "50",
+        "status": "submitted",
         "totalAmount": "12395",
         "description" : "nothing much",
         "attachment": null
@@ -24,6 +25,7 @@
         "amount": "12345",
         "taxZone": "GST",
         "tax": "50",
+        "status": "submitted",
         "totalAmount": "12395",
         "description" : "nothing much",
         "attachment": null
