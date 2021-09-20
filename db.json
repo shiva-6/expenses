@@ -1,6 +1,5 @@
 {
-    "expenses": [
-        "expenses": [{
+    "expenses": [{
         "expenseId": 1,
         "projectId": "test1",
         "date": "2021-02-06",
@@ -34,5 +33,4 @@
         "dateReviewed": "2020-09-09",
         "comments": ""
     }]
-    ]
 }
