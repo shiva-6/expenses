@@ -15,5 +15,22 @@
         "attachment": null,
         "dateReviewed": "2020-09-09",
         "comments": ""
+    },
+                {
+        "expenseId": 2,
+        "projectId": "test2",
+        "date": "2021-02-02",
+        "name": "expense2",
+        "payMethod": "Visa",
+        "currency": "INR",
+        "expenditureAmount": "12345",
+        "taxZone": "GST",
+        "tax": "50",
+        "status": "Submitted",
+        "totalAmount": "12395",
+        "description" : "nothing much",
+        "attachment": null,
+        "dateReviewed": "2020-09-09",
+        "comments": ""
     }]
 }
