@@ -1,38 +1,3 @@
 {
-    "expenses": [{
-        "id":0,
-        "expenseId": 1,
-        "projectId": "test1",
-        "date": "2021-02-06",
-        "name": "expense1",
-        "payMethod": "Visa",
-        "currency": "INR",
-        "expenditureAmount": "12345",
-        "taxZone": "GST",
-        "tax": "50",
-        "status": "Submitted",
-        "totalAmount": "12395",
-        "description" : "nothing much",
-        "attachment": null,
-        "dateReviewed": "2020-09-09",
-        "comments": ""
-    },
-                {
-                    "id":1,
-        "expenseId": 2,
-        "projectId": "test2",
-        "date": "2021-02-02",
-        "name": "expense2",
-        "payMethod": "Visa",
-        "currency": "INR",
-        "expenditureAmount": "12345",
-        "taxZone": "GST",
-        "tax": "50",
-        "status": "Submitted",
-        "totalAmount": "12395",
-        "description" : "nothing much",
-        "attachment": null,
-        "dateReviewed": "2020-09-09",
-        "comments": ""
-    }]
+    "expenses": []
 }
