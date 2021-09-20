@@ -14,7 +14,8 @@
         "description" : "nothing much",
         "attachment": null,
         "dateReviewed": "2020-09-09",
-        "comments": ""
+        "comments": "",
+        "userId": 1
     },
                 {
         "expenseId": 2,
@@ -31,6 +32,7 @@
         "description" : "nothing much",
         "attachment": null,
         "dateReviewed": "2020-09-09",
-        "comments": ""
+        "comments": "",
+        "userId": 1
     }]
 }
